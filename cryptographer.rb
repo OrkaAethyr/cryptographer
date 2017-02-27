@@ -32,7 +32,7 @@ class EncryptionEngine
 end
 
 
-
+puts "Coucou =) ! Voici les commandes disponibles : 'encrypt' - 'decrypt' - 'about' - 'help'"
 user_need = gets.chomp
 cool_sent = "C'est parti pour "
 
